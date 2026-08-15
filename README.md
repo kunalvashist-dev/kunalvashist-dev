@@ -198,7 +198,9 @@ When I'm away from the keyboard, you'll probably find me:
 <img src="https://img.shields.io/badge/Instagram-kunalv.exe-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+<a href="https://discord.com/users/885049589525278751">
 <img src="https://img.shields.io/badge/Discord-shadowalive-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
 </div>
 
