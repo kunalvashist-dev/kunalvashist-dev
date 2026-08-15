@@ -14,8 +14,8 @@
 <a href="https://www.instagram.com/kunalv.exe">
 <img src="https://img.shields.io/badge/Instagram-%40kunalv.exe-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="https://discord.com/users/885049589525278751">
-<img src="https://img.shields.io/badge/Discord-shadowalive-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="https://discord.com/users/YOUR_USER_ID">
+<img src="https://img.shields.io/badge/Discord-shadowalive-5865F2?style=flat-square&logo=discord&logoColor=white&v=2" alt="Discord"/>
 </a>
 
 </div>
