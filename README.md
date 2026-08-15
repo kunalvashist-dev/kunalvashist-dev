@@ -4,147 +4,231 @@
 
 ### AR/VR Developer · Game Developer · AI Enthusiast
 
-<a href="https://github.com/kunalvashist-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+immersive+digital+experiences;Exploring+XR%2C+AI+%26+interactive+technology;Turning+ideas+into+working+prototypes" alt="Typing animation" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+immersive+digital+experiences;Exploring+XR%2C+AI+%26+interactive+technology;Creating+games+%26+3D+experiences;Turning+ideas+into+working+prototypes" alt="Typing animation"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=kunalvashist-dev&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/kunalvashist-dev">
+<img src="https://img.shields.io/badge/GitHub-kunalvashist--dev-181717?style=flat-square&logo=github" alt="GitHub"/>
+</a>
+<a href="https://www.instagram.com/kunalv.exe">
+<img src="https://img.shields.io/badge/Instagram-%40kunalv.exe-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<img src="https://img.shields.io/badge/Discord-shadowalive-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
 
 </div>
 
 ---
 
-## About
+## 👋 About Me
 
-I'm **Kunal Vashist**, a BCA student specializing in **AR/VR** with an interest in building immersive experiences, interactive applications, games, and AI-powered tools.
+I'm **Kunal Vashist**, a BCA student specializing in **AR/VR**, interested in building immersive experiences, interactive applications, games, and AI-powered tools.
 
-My work sits at the intersection of:
+I enjoy working across the boundary between **software, 3D environments and interactive technology** — from designing virtual experiences to experimenting with AI systems and building the software behind them.
 
-* 🥽 **Extended Reality** — AR, VR & XR development
-* 🎮 **Game Development** — gameplay, interaction & environments
-* 🤖 **Artificial Intelligence** — assistants, automation & experimentation
-* 🧊 **3D Development** — modelling, environments & interactive experiences
-* 💻 **Software Development** — learning, building and experimenting
+Currently focused on:
 
-> I enjoy taking an idea from a blank scene to something you can actually interact with.
+* 🥽 Extended Reality & immersive experiences
+* 🎮 Game development
+* 🤖 Artificial intelligence & automation
+* 🧊 3D development & digital environments
+* 🌐 Web development
+* 💻 Software engineering
 
----
-
-## Current Focus
-
-```text
-AR / VR Development       ████████████████████  Active
-Game Development          ██████████████████░░  Active
-AI & Automation            ████████████████░░░░  Exploring
-3D Development             █████████████████░░░  Active
-Systems & Programming      ███████████████░░░░░  Learning
-```
+> **Build → Experiment → Break → Learn → Build Better**
 
 ---
 
-## Tech Stack
+## 🚀 What I'm Working On
 
-### Languages
+### 🤖 Xenora AI
+
+A personal AI assistant exploring **memory, automation, local AI, intelligent tools and system interaction**.
+
+The project combines AI with practical automation to create an assistant that can do more than simply answer questions.
+
+**Focus:** `AI` `Automation` `Local Models` `Tools` `Memory`
+
+---
+
+### 🥽 XR Development
+
+Building and experimenting with **AR, VR and XR experiences** using real-time 3D engines.
+
+Areas I'm exploring include spatial interaction, immersive environments, 3D assets, lighting, interaction systems and real-time experiences.
+
+**Focus:** `Unity` `Unreal Engine` `XR` `AR` `VR` `3D`
+
+---
+
+### 🌐 Virtuonix
+
+Technical work for **Virtuonix**, an AR/VR-focused university club.
+
+I've worked on the club's digital presence and technical projects while exploring ways to combine web technology with the XR ecosystem.
+
+**Focus:** `Web Development` `AR/VR` `UI` `Interactive Technology`
+
+---
+
+## 🧰 Technology Stack
+
+### 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css" />
 </p>
 
-### XR · Game Development · 3D
-
-<p>
-<img src="https://skillicons.dev/icons?i=unity,unreal,blender" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### Exploring
-
-`ARCore` · `ARKit` · `Vuforia` · `XR Interaction` · `AI Agents` · `3D Environments`
+`C` · `C++` · `Java` · `Python` · `JavaScript` · `HTML` · `CSS`
 
 ---
 
-## Selected Projects
+### 🥽 AR / VR / XR
 
-### 🤖 Xenora AI
+<p>
+<img src="https://skillicons.dev/icons?i=unity,unreal" />
+</p>
 
-**Personal AI assistant focused on memory, automation and intelligent tools.**
+`Unity XR` · `Vuforia` · `ARCore` · `ARKit` · `Wikitude` · `ARToolKit`
 
-Xenora is an ongoing personal project exploring how AI can interact with local systems, remember context, perform tasks and act as a practical everyday assistant.
+Exploring:
 
-`AI` `Automation` `Local Models` `Python` `Tools`
-
----
-
-### 🥽 XR Projects
-
-**Interactive AR/VR experiments and prototypes built with Unity and Unreal Engine.**
-
-Exploring spatial interaction, immersive environments, 3D assets, lighting, interaction systems and real-time experiences.
-
-`Unity` `Unreal Engine` `XR` `Blender`
+`XR Interaction` · `Spatial Computing` · `Immersive UI` · `Marker-Based AR` · `3D Interaction`
 
 ---
 
 ### 🎮 Game Development
 
-**Gameplay prototypes and experimental game projects.**
+<p>
+<img src="https://skillicons.dev/icons?i=unity,unreal,cpp" />
+</p>
 
-A collection of projects exploring gameplay mechanics, environments, interaction and real-time systems.
-
-`Unreal Engine` `Unity` `C++` `3D`
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kunalvashist-dev&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalvashist-dev&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E" height="165" />
-
-</div>
+`Unity` · `Unreal Engine` · `C++` · `Gameplay Systems` · `Game Mechanics` · `Level Design` · `Real-Time 3D`
 
 ---
 
-## Contribution Activity
+### 🧊 3D & Creative Development
 
-<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=blender" />
+</p>
 
-<img src="https://raw.githubusercontent.com/kunalvashist-dev/kunalvashist-dev/output/github-contribution-grid-snake.svg" alt="Contribution graph animation"/>
+`Blender` · `3D Modelling` · `Environment Design` · `Lighting` · `Materials` · `Textures` · `3D Assets`
 
-</div>
+Also working with:
 
----
-
-## Beyond the Code
-
-When I'm not building something, you'll probably find me:
-
-🎹 Playing piano
-♟️ Playing chess
-🧩 Solving Rubik's cubes
-🎧 Listening to music
-🎮 Exploring new games and interactive experiences
+`Photoshop` · `3D Environments` · `Interactive Visual Design`
 
 ---
 
-## Let's Connect
+### 🤖 AI & Intelligent Systems
+
+`Ollama` · `Local LLMs` · `AI APIs` · `Prompt Engineering` · `AI Assistants` · `Automation` · `Tool Integration` · `Memory Systems`
+
+---
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
+</p>
+
+`HTML5` · `CSS3` · `JavaScript` · `Node.js` · `REST APIs` · `Responsive Design`
+
+---
+
+### 🗄️ Databases
+
+`Oracle SQL` · `SQL` · `Database Design` · `CRUD Operations`
+
+---
+
+### 🔐 Backend & Security
+
+`Authentication` · `Authorization` · `Password Hashing` · `Input Validation` · `Rate Limiting` · `HTTPS` · `Secure Cookies` · `API Security`
+
+---
+
+### 🛠️ Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+`Git` · `GitHub` · `VS Code` · `Unity Hub` · `Unreal Engine` · `Blender`
+
+---
+
+### 📚 Computer Science
+
+`Object-Oriented Programming` · `Data Structures` · `Computer Networks` · `Database Management` · `Software Engineering`
+
+---
+
+## ⭐ Selected Projects
+
+| Project                 | Description                                                         | Technologies             |
+| ----------------------- | ------------------------------------------------------------------- | ------------------------ |
+| 🤖 **Xenora AI**        | Personal AI assistant with automation, memory and intelligent tools | AI · Python · Local LLMs |
+| 🥽 **XR Projects**      | AR/VR experiments and interactive 3D experiences                    | Unity · Unreal · XR      |
+| 🌐 **Virtuonix**        | Website and technical work for an AR/VR university club             | Web · JavaScript · UI    |
+| 🎮 **Game Development** | Gameplay prototypes and real-time 3D experiments                    | Unreal · Unity · C++     |
+
+> More projects will appear here as I build them.
+
+---
+
+## 🧪 Currently Exploring
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  Extended Reality ................. ██████████  →    │
+│  Artificial Intelligence .......... █████████░  →    │
+│  Game Development ................. ██████████  →    │
+│  3D Development .................. █████████░  →    │
+│  C++ & Systems ................... ████████░░  →    │
+│  Software Engineering ............ ████████░░  →    │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🎯 Long-Term Direction
+
+I'm working toward becoming a developer capable of building **complete interactive systems** — from the underlying software and AI to the 3D environment and user experience.
+
+My interests are gradually converging around:
+
+**XR × AI × Games × 3D × Software**
+
+---
+
+## 🎹 Beyond Development
+
+When I'm not building something:
+
+* 🎹 Playing piano
+* ♟️ Playing chess
+* 🧩 Solving Rubik's cubes
+* 🎮 Exploring games
+* 🎧 Listening to music
+* 🧪 Experimenting with random ideas
+
+---
+
+## 🌐 Connect
 
 <div align="center">
 
 <a href="https://github.com/kunalvashist-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-kunalvashist--dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<!-- Add your other profiles here -->
+<a href="https://www.instagram.com/kunalv.exe">
+<img src="https://img.shields.io/badge/Instagram-kunalv.exe-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/Discord-shadowalive-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 
 </div>
 
@@ -153,7 +237,5 @@ When I'm not building something, you'll probably find me:
 <div align="center">
 
 ### Building the future, one prototype at a time. ⚡
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=100&section=footer" />
 
 </div>
