@@ -137,7 +137,16 @@ I've worked on the club's **website and technical infrastructure**, while also e
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kunalvashist-dev/kunalvashist-dev/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/kunalvashist-dev/kunalvashist-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/kunalvashist-dev/kunalvashist-dev/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake"
+       src="https://raw.githubusercontent.com/kunalvashist-dev/kunalvashist-dev/output/github-contribution-grid-snake.svg">
+       
+</picture>
 
 </div>
 
